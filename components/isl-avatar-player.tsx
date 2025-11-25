@@ -651,7 +651,7 @@ export function ISLAvatarPlayer({ className }: ISLAvatarPlayerProps) {
     if (!cwaRef.current) return
 
     try {
-      const sigmlURL = `/SignFiles/${word.toUpperCase()}.sigml`
+      const sigmlURL = `/SignFiles/${word.toLowerCase()}.sigml`
       setSiGMLURL(sigmlURL)
       console.log('[ISL] Playing SiGML:', sigmlURL)
       
