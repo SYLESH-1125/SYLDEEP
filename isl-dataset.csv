@@ -1,0 +1,1709 @@
+word,sign,sovExample,category
+accelerate,quick,I accelerate,Transportation
+accelerating,quick,I accelerateing am,Transportation
+accelerated,quick,I yesterday accelerateed,Transportation
+account,work,I account,General
+accounting,work,I accounting am,General
+accounted,work,I yesterday accounted,General
+ache,work,I ache,General
+aching,work,I acheing am,General
+ached,work,I yesterday acheed,General
+add,add,I add,General
+adding,add,I adding am,General
+added,add,I yesterday added,General
+aid,work,I aid,General
+aiding,work,I aiding am,General
+aided,work,I yesterday aided,General
+alert,call,I people alert,Disaster Management
+alerting,call,I alerting am,Disaster Management
+alerted,call,I yesterday alerted,Disaster Management
+alight,work,I alight,General
+alighting,work,I alighting am,General
+alighted,work,I yesterday alighted,General
+align,work,I align,General
+aligning,work,I aligning am,General
+aligned,work,I yesterday aligned,General
+allocate,divide,I allocate,General
+allocating,divide,I allocateing am,General
+allocated,divide,I yesterday allocateed,General
+amazed,work,I amazed,General
+amazeding,work,I amazeding am,General
+angry,angry,I angry,General
+angrying,angry,I angrying am,General
+angryed,angry,I yesterday angryed,General
+answer,answer,I answer,Communication
+answering,answer,I answering am,Communication
+answered,answer,I yesterday answered,Communication
+argue,fight,I argue,General
+arguing,fight,I argueing am,General
+argued,fight,I yesterday argueed,General
+arrange,order,I arrange,General
+arranging,order,I arrangeing am,General
+arranged,order,I yesterday arrangeed,General
+arrest,catch,I arrest,Legal
+arresting,catch,I arresting am,Legal
+arrested,catch,I yesterday arrested,Legal
+ascend,up,I ascend,General
+ascending,up,I ascending am,General
+ascended,up,I yesterday ascended,General
+ask,work,I ask,Communication
+asking,work,I asking am,Communication
+asked,work,I yesterday asked,Communication
+assemble,join,I assemble,General
+assembling,join,I assembleing am,General
+assembled,join,I yesterday assembleed,General
+assist,work,I assist,General
+assisting,work,I assisting am,General
+assisted,work,I yesterday assisted,General
+astonished,work,I astonished,General
+astonisheding,work,I astonisheding am,General
+attack,fight,I attack,General
+attacking,fight,I attacking am,General
+attacked,fight,I yesterday attacked,General
+bag,bag,I bag,General
+baging,bag,I baging am,General
+baged,bag,I yesterday baged,General
+bake,cook,I bake,Food Preparation
+baking,cook,I bakeing am,Food Preparation
+baked,cook,I yesterday bakeed,Food Preparation
+balance,equal,I balance,General
+balancing,equal,I balanceing am,General
+balanced,equal,I yesterday balanceed,General
+bandage,bandage,I bandage,Medical
+bandaging,bandage,I bandageing am,Medical
+bandaged,bandage,I yesterday bandageed,Medical
+bargain,work,I bargain,Shopping
+bargaining,work,I bargaining am,Shopping
+bargained,work,I yesterday bargained,Shopping
+bat,bat,I bat,Sports & Exercise
+bating,bat,I bating am,Sports & Exercise
+bated,bat,I yesterday bated,Sports & Exercise
+bath,wash,I bath do,Daily Activities
+bathing,wash,I bathing am,Daily Activities
+bathed,wash,I yesterday bathed,Daily Activities
+battery,work,I battery,General
+batterying,work,I batterying am,General
+batteryed,work,I yesterday batteryed,General
+beat,beat,I beat,General
+beating,beat,I beating am,General
+beated,beat,I yesterday beated,General
+bend,bend,I bend,General
+bending,bend,I bending am,General
+bended,bend,I yesterday bended,General
+blanch,boil,I blanch,General
+blanching,boil,I blanching am,General
+blanched,boil,I yesterday blanched,General
+bleed,work,I bleed,General
+bleeding,work,I bleeding am,General
+blend,work,I blend,General
+blending,work,I blending am,General
+blended,work,I yesterday blended,General
+board,enter,I board,Transportation
+boarding,enter,I boarding am,Transportation
+boarded,enter,I yesterday boarded,Transportation
+boil,cook,I boil,Food Preparation
+boiling,cook,I boiling am,Food Preparation
+boiled,cook,I yesterday boiled,Food Preparation
+bolt,work,I bolt,General
+bolting,work,I bolting am,General
+bolted,work,I yesterday bolted,General
+bore,work,I bore,General
+boring,work,I boreing am,General
+bored,work,I yesterday boreed,General
+borrow,borrow,I borrow,Financial
+borrowing,borrow,I borrowing am,Financial
+borrowed,borrow,I yesterday borrowed,Financial
+bow,work,I bow,General
+bowing,work,I bowing am,General
+bowed,work,I yesterday bowed,General
+bowl,throw,I bowl,General
+bowling,throw,I bowling am,General
+bowled,throw,I yesterday bowled,General
+box,work,I box,Sports & Exercise
+boxing,work,I boxing am,Sports & Exercise
+boxed,work,I yesterday boxed,Sports & Exercise
+brake,work,I brake,Transportation
+braking,work,I brakeing am,Transportation
+braked,work,I yesterday brakeed,Transportation
+brighten,work,I brighten,General
+brightening,work,I brightening am,General
+brightened,work,I yesterday brightened,General
+broil,cook,I broil,General
+broiling,cook,I broiling am,General
+broiled,cook,I yesterday broiled,General
+browse,work,I browse,Shopping
+browsing,work,I browseing am,Shopping
+browsed,work,I yesterday browseed,Shopping
+brush,brush,I brush do,Daily Activities
+brushing,brush,I brushing am,Daily Activities
+brushed,brush,I yesterday brushed,Daily Activities
+budget,plan,I budget,Financial
+budgeting,plan,I budgeting am,Financial
+budgeted,plan,I yesterday budgeted,Financial
+build,build,I build,Professional
+building,build,I building am,Professional
+builded,build,I yesterday builded,Professional
+button,work,I button,General
+buttoning,work,I buttoning am,General
+buttoned,work,I yesterday buttoned,General
+buy,take,I buy,Shopping
+buying,take,I buying am,Shopping
+buyed,take,I yesterday buyed,Shopping
+calculate,think,I calculate,General
+calculating,think,I calculateing am,General
+calculated,think,I yesterday calculateed,General
+call,phone,I call,Communication
+calling,phone,I calling am,Communication
+called,phone,I yesterday called,Communication
+carry,carry,I now carry,Hand Actions
+carrying,carry,I carrying am,Hand Actions
+carryed,carry,I yesterday carryed,Hand Actions
+catch,catch,I now catch,Hand Actions
+catching,catch,I catching am,Hand Actions
+catched,catch,I yesterday catched,Hand Actions
+cement,join,I cement,General
+cementing,join,I cementing am,General
+cemented,join,I yesterday cemented,General
+charge,power,I charge,Technology
+charging,power,I chargeing am,Technology
+charged,power,I yesterday chargeed,Technology
+chat,talk,I chat,General
+chating,talk,I chating am,General
+chated,talk,I yesterday chated,General
+check,see,I check,General
+checking,see,I checking am,General
+checked,see,I yesterday checked,General
+checkout,pay,I checkout,General
+checkouting,pay,I checkouting am,General
+checkouted,pay,I yesterday checkouted,General
+cheerful,work,I cheerful,General
+cheerfuling,work,I cheerfuling am,General
+cheerfuled,work,I yesterday cheerfuled,General
+choose,pick,I choose,Shopping
+choosing,pick,I chooseing am,Shopping
+choosed,pick,I yesterday chooseed,Shopping
+chop,cut,I chop,Food Preparation
+choping,cut,I choping am,Food Preparation
+choped,cut,I yesterday choped,Food Preparation
+chuckle,laugh,I chuckle,General
+chuckling,laugh,I chuckleing am,General
+chuckled,laugh,I yesterday chuckleed,General
+clap,clap,I clap,General
+claping,clap,I claping am,General
+claped,clap,I yesterday claped,General
+clarify,work,I clarify,General
+clarifying,work,I clarifying am,General
+clarifyed,work,I yesterday clarifyed,General
+clean,wash,I clean do,Daily Activities
+cleaning,wash,I cleaning am,Daily Activities
+cleaned,wash,I yesterday cleaned,Daily Activities
+click,click,I click,Technology
+clicking,click,I clicking am,Technology
+clicked,click,I yesterday clicked,Technology
+climb,up,I now climb,Movement Actions
+climbing,up,I climbing am,Movement Actions
+climbed,up,I yesterday climbed,Movement Actions
+close,close,I close,General
+closing,close,I closeing am,General
+closed,close,I yesterday closeed,General
+collect,collect,I collect,General
+collecting,collect,I collecting am,General
+collected,collect,I yesterday collected,General
+color,draw,I color,General
+coloring,draw,I coloring am,General
+colored,draw,I yesterday colored,General
+comb,brush,I comb,General
+combing,brush,I combing am,General
+combed,brush,I yesterday combed,General
+communicate,talk,I communicate,General
+communicating,talk,I communicateing am,General
+communicated,talk,I yesterday communicateed,General
+commute,travel,I commute,Transportation
+commuting,travel,I commuteing am,Transportation
+commuted,travel,I yesterday commuteed,Transportation
+compensate,pay,I compensate,General
+compensating,pay,I compensateing am,General
+compensated,pay,I yesterday compensateed,General
+compete,fight,I compete,General
+competing,fight,I competeing am,General
+competed,fight,I yesterday competeed,General
+complain,complain,I complain,General
+complaining,complain,I complaining am,General
+complained,complain,I yesterday complained,General
+compost,work,I compost,General
+composting,work,I composting am,General
+composted,work,I yesterday composted,General
+comprehend,know,I comprehend,General
+comprehending,know,I comprehending am,General
+comprehended,know,I yesterday comprehended,General
+compute,work,I compute,General
+computing,work,I computeing am,General
+computed,work,I yesterday computeed,General
+concrete,build,I concrete,General
+concreting,build,I concreteing am,General
+concreted,build,I yesterday concreteed,General
+confused,work,I confused,General
+confuseding,work,I confuseding am,General
+connect,join,I connect,Technology
+connecting,join,I connecting am,Technology
+connected,join,I yesterday connected,Technology
+conserve,save,I conserve,Environmental
+conserving,save,I conserveing am,Environmental
+conserved,save,I yesterday conserveed,Environmental
+construct,build,I construct,Construction
+constructing,build,I constructing am,Construction
+constructed,build,I yesterday constructed,Construction
+contaminate,work,I contaminate,General
+contaminating,work,I contaminateing am,General
+contaminated,work,I yesterday contaminateed,General
+control,control,I control,General
+controling,control,I controling am,General
+controled,control,I yesterday controled,General
+cook,cook,I cook do,Daily Activities
+cooking,cook,I cooking am,Daily Activities
+cooked,cook,I yesterday cooked,Daily Activities
+cool,work,I cool,General
+cooling,work,I cooling am,General
+cooled,work,I yesterday cooled,General
+coordinate,work,I coordinate,General
+coordinating,work,I coordinateing am,General
+coordinated,work,I yesterday coordinateed,General
+copy,copy,I copy,General
+copying,copy,I copying am,General
+copyed,copy,I yesterday copyed,General
+core,remove,I core,General
+coring,remove,I coreing am,General
+cored,remove,I yesterday coreed,General
+cough,work,I cough,Medical
+coughing,work,I coughing am,Medical
+coughed,work,I yesterday coughed,Medical
+count,count,I count,General
+counting,count,I counting am,General
+counted,count,I yesterday counted,General
+craft,work,I craft,General
+crafting,work,I crafting am,General
+crafted,work,I yesterday crafted,General
+crawl,work,I crawl,General
+crawling,work,I crawling am,General
+crawled,work,I yesterday crawled,General
+create,work,I create,General
+creating,work,I createing am,General
+created,work,I yesterday createed,General
+credit,borrow,I credit,General
+crediting,borrow,I crediting am,General
+credited,borrow,I yesterday credited,General
+crisis,problem,I crisis,General
+crisising,problem,I crisising am,General
+crisised,problem,I yesterday crisised,General
+crop,work,I crop,General
+croping,work,I croping am,General
+croped,work,I yesterday croped,General
+crouch,bend,I crouch,General
+crouching,bend,I crouching am,General
+crouched,bend,I yesterday crouched,General
+cruise,work,I cruise,General
+cruising,work,I cruiseing am,General
+cruised,work,I yesterday cruiseed,General
+cry,sad,I cry,Social
+crying,sad,I crying am,Social
+cryed,sad,I yesterday cryed,Social
+cultivate,work,I cultivate,Agricultural
+cultivating,work,I cultivateing am,Agricultural
+cultivated,work,I yesterday cultivateed,Agricultural
+cure,work,I cure,Medical
+curing,work,I cureing am,Medical
+cured,work,I yesterday cureed,Medical
+custody,work,I custody,General
+custodying,work,I custodying am,General
+custodyed,work,I yesterday custodyed,General
+cut,cut,I cut,Food Preparation
+cuting,cut,I cuting am,Food Preparation
+cuted,cut,I yesterday cuted,Food Preparation
+cyclone,work,I cyclone,General
+cycloning,work,I cycloneing am,General
+cycloned,work,I yesterday cycloneed,General
+damage,break,I damage,General
+damaging,break,I damageing am,General
+damaged,break,I yesterday damageed,General
+danger,work,I people danger,Disaster Management
+dangering,work,I dangering am,Disaster Management
+dangered,work,I yesterday dangered,Disaster Management
+debate,talk,I debate,General
+debating,talk,I debateing am,General
+debated,talk,I yesterday debateed,General
+debt,work,I debt,General
+debting,work,I debting am,General
+debted,work,I yesterday debted,General
+decide,work,I decide,General
+deciding,work,I decideing am,General
+decided,work,I yesterday decideed,General
+decorate,work,I decorate,Household
+decorating,work,I decorateing am,Household
+decorated,work,I yesterday decorateed,Household
+deep-fry,work,I deep-fry,General
+deep-frying,work,I deep-frying am,General
+deep-fryed,work,I yesterday deep-fryed,General
+defend,work,I defend,Legal
+defending,work,I defending am,Legal
+defended,work,I yesterday defended,Legal
+delete,remove,I delete,Technology
+deleting,remove,I deleteing am,Technology
+deleted,remove,I yesterday deleteed,Technology
+deliver,bring,I deliver,Professional
+delivering,bring,I delivering am,Professional
+delivered,bring,I yesterday delivered,Professional
+demolish,work,I demolish,Construction
+demolishing,work,I demolishing am,Construction
+demolished,work,I yesterday demolished,Construction
+demonstrate,work,I demonstrate,General
+demonstrating,work,I demonstrateing am,General
+demonstrated,work,I yesterday demonstrateed,General
+deploy,send,I people deploy,Disaster Management
+deploying,send,I deploying am,Disaster Management
+deployed,send,I yesterday deployed,Disaster Management
+deposit,work,I deposit,General
+depositing,work,I depositing am,General
+deposited,work,I yesterday deposited,General
+descend,down,I descend,General
+descending,down,I descending am,General
+descended,down,I yesterday descended,General
+design,plan,I design,Professional
+designing,plan,I designing am,Professional
+designed,plan,I yesterday designed,Professional
+destroy,break,I destroy,General
+destroying,break,I destroying am,General
+destroyed,break,I yesterday destroyed,General
+detain,hold,I detain,General
+detaining,hold,I detaining am,General
+detained,hold,I yesterday detained,General
+diagnose,check,I diagnose,Medical
+diagnosing,check,I diagnoseing am,Medical
+diagnosed,check,I yesterday diagnoseed,Medical
+dice,cut,I dice,General
+dicing,cut,I diceing am,General
+diced,cut,I yesterday diceed,General
+dig,work,I dig,General
+diging,work,I diging am,General
+diged,work,I yesterday diged,General
+dim,work,I dim,General
+diming,work,I diming am,General
+dimed,work,I yesterday dimed,General
+direct,work,I direct,General
+directing,work,I directing am,General
+directed,work,I yesterday directed,General
+dirty,work,I dirty,General
+dirtying,work,I dirtying am,General
+dirtyed,work,I yesterday dirtyed,General
+disaster,break,I disaster,General
+disastering,break,I disastering am,General
+disastered,break,I yesterday disastered,General
+disconnect,work,I disconnect,General
+disconnecting,work,I disconnecting am,General
+disconnected,work,I yesterday disconnected,General
+discount,work,I discount,General
+discounting,work,I discounting am,General
+discounted,work,I yesterday discounted,General
+discuss,talk,I discuss,General
+discussing,talk,I discussing am,General
+discussed,talk,I yesterday discussed,General
+disembark,work,I disembark,General
+disembarking,work,I disembarking am,General
+disembarked,work,I yesterday disembarked,General
+dismantle,take,I dismantle,General
+dismantling,take,I dismantleing am,General
+dismantled,take,I yesterday dismantleed,General
+distribute,work,I people distribute,Disaster Management
+distributing,work,I distributeing am,Disaster Management
+distributed,work,I yesterday distributeed,Disaster Management
+dive,jump,I dive,General
+diving,jump,I diveing am,General
+dived,jump,I yesterday diveed,General
+divide,divide,I divide,General
+dividing,divide,I divideing am,General
+divided,divide,I yesterday divideed,General
+donation,work,I donation,General
+donationing,work,I donationing am,General
+donationed,work,I yesterday donationed,General
+dose,work,I dose,General
+dosing,work,I doseing am,General
+dosed,work,I yesterday doseed,General
+doubtful,work,I doubtful,General
+doubtfuling,work,I doubtfuling am,General
+doubtfuled,work,I yesterday doubtfuled,General
+download,receive,I download,Technology
+downloading,receive,I downloading am,Technology
+downloaded,receive,I yesterday downloaded,Technology
+draw,draw,I draw,General
+drawing,draw,I drawing am,General
+drawed,draw,I yesterday drawed,General
+dress,work,I dress,General
+dressing,work,I dressing am,General
+dressed,work,I yesterday dressed,General
+dribble,work,I dribble,General
+dribbling,work,I dribbleing am,General
+dribbled,work,I yesterday dribbleed,General
+drill,work,I drill,Construction
+drilling,work,I drilling am,Construction
+drilled,work,I yesterday drilled,Construction
+drink,work,I drink do,Daily Activities
+drinking,work,I drinking am,Daily Activities
+drinked,work,I yesterday drinked,Daily Activities
+drive,car,I now drive,Movement Actions
+driving,car,I driveing am,Movement Actions
+drived,car,I yesterday driveed,Movement Actions
+drop,fall,I drop,General
+droping,fall,I droping am,General
+droped,fall,I yesterday droped,General
+dry,remove,I dry,General
+drying,remove,I drying am,General
+dryed,remove,I yesterday dryed,General
+dust,work,I dust,General
+dusting,work,I dusting am,General
+dusted,work,I yesterday dusted,General
+earn,work,I earn,Financial
+earning,work,I earning am,Financial
+earned,work,I yesterday earned,Financial
+earthquake,shake,I earthquake,General
+earthquaking,shake,I earthquakeing am,General
+earthquaked,shake,I yesterday earthquakeed,General
+eat,eat,I eat do,Daily Activities
+eating,eat,I eating am,Daily Activities
+eated,eat,I yesterday eated,Daily Activities
+email,write,I email,Communication
+emailing,write,I emailing am,Communication
+emailed,write,I yesterday emailed,Communication
+embark,work,I embark,General
+embarking,work,I embarking am,General
+embarked,work,I yesterday embarked,General
+embrace,hold,I embrace,General
+embracing,hold,I embraceing am,General
+embraced,hold,I yesterday embraceed,General
+emergency,run,I people emergency,Disaster Management
+emergencying,run,I emergencying am,Disaster Management
+emergencyed,run,I yesterday emergencyed,Disaster Management
+erase,delete,I erase,General
+erasing,delete,I eraseing am,General
+erased,delete,I yesterday eraseed,General
+erect,work,I erect,General
+erecting,work,I erecting am,General
+erected,work,I yesterday erected,General
+evacuate,run,I people evacuate,Disaster Management
+evacuating,run,I evacuateing am,Disaster Management
+evacuated,run,I yesterday evacuateed,Disaster Management
+evacuee,work,I evacuee,General
+evacueing,work,I evacueeing am,General
+evacueed,work,I yesterday evacueeed,General
+examine,examine,I examine,Medical
+examining,examine,I examineing am,Medical
+examined,examine,I yesterday examineed,Medical
+excavate,work,I excavate,General
+excavating,work,I excavateing am,General
+excavated,work,I yesterday excavateed,General
+exchange,work,I exchange,General
+exchanging,work,I exchangeing am,General
+exchanged,work,I yesterday exchangeed,General
+excited,work,I excited,General
+exciteding,work,I exciteding am,General
+exercise,work,I exercise,Sports & Exercise
+exercising,work,I exerciseing am,Sports & Exercise
+exercised,work,I yesterday exerciseed,Sports & Exercise
+exit,leave,I exit,Transportation
+exiting,leave,I exiting am,Transportation
+exited,leave,I yesterday exited,Transportation
+experiment,work,I experiment,Education
+experimenting,work,I experimenting am,Education
+experimented,work,I yesterday experimented,Education
+explain,work,I explain,General
+explaining,work,I explaining am,General
+explained,work,I yesterday explained,General
+explore,work,I explore,General
+exploring,work,I exploreing am,General
+explored,work,I yesterday exploreed,General
+express,work,I express,General
+expressing,work,I expressing am,General
+expressed,work,I yesterday expressed,General
+fall,fall,I fall,General
+falling,fall,I falling am,General
+falled,fall,I yesterday falled,General
+farm,work,I farm,General
+farming,work,I farming am,General
+farmed,work,I yesterday farmed,General
+feel,touch,I feel,General
+feeling,touch,I feeling am,General
+feeled,touch,I yesterday feeled,General
+fertilize,feed,I fertilize,General
+fertilizing,feed,I fertilizeing am,General
+fertilized,feed,I yesterday fertilizeed,General
+field,catch,I field,General
+fielding,catch,I fielding am,General
+fielded,catch,I yesterday fielded,General
+fight,fight,I fight,General
+fighting,fight,I fighting am,General
+fighted,fight,I yesterday fighted,General
+fine,work,I fine,Legal
+fining,work,I fineing am,Legal
+fined,work,I yesterday fineed,Legal
+fire,work,I fire,General
+firing,work,I fireing am,General
+fired,work,I yesterday fireed,General
+fix,work,I fix,General
+fixing,work,I fixing am,General
+fixed,work,I yesterday fixed,General
+flavor,taste,I flavor,General
+flavoring,taste,I flavoring am,General
+flavored,taste,I yesterday flavored,General
+float,work,I float,General
+floating,work,I floating am,General
+floated,work,I yesterday floated,General
+flood,water,I flood,General
+flooding,water,I flooding am,General
+flooded,water,I yesterday flooded,General
+fly,fly,I now fly,Movement Actions
+flying,fly,I flying am,Movement Actions
+flyed,fly,I yesterday flyed,Movement Actions
+fold,work,I fold,Household
+folding,work,I folding am,Household
+folded,work,I yesterday folded,Household
+form,form,I form,General
+forming,form,I forming am,General
+formed,form,I yesterday formed,General
+forward,send,I forward,General
+forwarding,send,I forwarding am,General
+forwarded,send,I yesterday forwarded,General
+freeze,work,I freeze,General
+freezing,work,I freezeing am,General
+freezed,work,I yesterday freezeed,General
+fry,cook,I fry,Food Preparation
+frying,cook,I frying am,Food Preparation
+fryed,cook,I yesterday fryed,Food Preparation
+furious,angry,I furious,General
+furiousing,angry,I furiousing am,General
+furioused,angry,I yesterday furioused,General
+gain,receive,I gain,General
+gaining,receive,I gaining am,General
+gained,receive,I yesterday gained,General
+garden,work,I garden,General
+gardening,work,I gardening am,General
+gardened,work,I yesterday gardened,General
+garnish,work,I garnish,General
+garnishing,work,I garnishing am,General
+garnished,work,I yesterday garnished,General
+gather,collect,I gather,General
+gathering,collect,I gathering am,General
+gathered,collect,I yesterday gathered,General
+gesture,work,I gesture,Communication
+gesturing,work,I gestureing am,Communication
+gestured,work,I yesterday gestureed,Communication
+giggle,laugh,I giggle,General
+giggling,laugh,I giggleing am,General
+giggled,laugh,I yesterday giggleed,General
+grab,take,I now grab,Hand Actions
+grabing,take,I grabing am,Hand Actions
+grabed,take,I yesterday grabed,Hand Actions
+grasp,hold,I grasp,General
+grasping,hold,I grasping am,General
+grasped,hold,I yesterday grasped,General
+grate,work,I grate,General
+grating,work,I grateing am,General
+grated,work,I yesterday grateed,General
+green,green,I green,General
+greening,green,I greening am,General
+greened,green,I yesterday greened,General
+greet,hello,I greet,Social
+greeting,hello,I greeting am,Social
+greeted,hello,I yesterday greeted,Social
+grill,cook,I grill,General
+grilling,cook,I grilling am,General
+grilled,cook,I yesterday grilled,General
+grin,work,I grin,General
+grining,work,I grining am,General
+grined,work,I yesterday grined,General
+grip,hold,I grip,General
+griping,hold,I griping am,General
+griped,hold,I yesterday griped,General
+grow,develop,I grow,Agricultural
+growing,develop,I growing am,Agricultural
+growed,develop,I yesterday growed,Agricultural
+guard,work,I guard,General
+guarding,work,I guarding am,General
+guarded,work,I yesterday guarded,General
+guide,lead,I guide,General
+guiding,lead,I guideing am,General
+guided,lead,I yesterday guideed,General
+hammer,work,I hammer,Construction
+hammering,work,I hammering am,Construction
+hammered,work,I yesterday hammered,Construction
+hang,hang,I hang,Household
+hanging,hang,I hanging am,Household
+hanged,hang,I yesterday hanged,Household
+happy,work,I happy,General
+happying,work,I happying am,General
+happyed,work,I yesterday happyed,General
+harvest,work,I harvest,Agricultural
+harvesting,work,I harvesting am,Agricultural
+harvested,work,I yesterday harvested,Agricultural
+heal,work,I heal,Medical
+healing,work,I healing am,Medical
+healed,work,I yesterday healed,Medical
+hear,work,I hear,General
+hearing,work,I hearing am,General
+heared,work,I yesterday heared,General
+heartbeat,heartbeat,I heartbeat,General
+heartbeating,heartbeat,I heartbeating am,General
+heartbeated,heartbeat,I yesterday heartbeated,General
+heat,work,I heat,Household
+heating,work,I heating am,Household
+heated,work,I yesterday heated,Household
+hit,work,I hit,General
+hiting,work,I hiting am,General
+hited,work,I yesterday hited,General
+hoe,work,I hoe,General
+hoing,work,I hoeing am,General
+hoed,work,I yesterday hoeed,General
+hold,hold,I now hold,Hand Actions
+holding,hold,I holding am,Hand Actions
+holded,hold,I yesterday holded,Hand Actions
+hop,jump,I hop,General
+hoping,jump,I hoping am,General
+hoped,jump,I yesterday hoped,General
+hug,work,I hug,Social
+huging,work,I huging am,Social
+huged,work,I yesterday huged,Social
+hurt,work,I hurt,General
+hurting,work,I hurting am,General
+hurted,work,I yesterday hurted,General
+illustrate,work,I illustrate,General
+illustrating,work,I illustrateing am,General
+illustrated,work,I yesterday illustrateed,General
+income,work,I income,General
+incoming,work,I incomeing am,General
+incomed,work,I yesterday incomeed,General
+indicate,work,I indicate,General
+indicating,work,I indicateing am,General
+indicated,work,I yesterday indicateed,General
+inject,needle,I inject,Medical
+injecting,needle,I injecting am,Medical
+injected,needle,I yesterday injected,Medical
+injured,fall,I injured,General
+injureding,fall,I injureding am,General
+injury,work,I injury,General
+injurying,work,I injurying am,General
+injuryed,work,I yesterday injuryed,General
+inquire,work,I inquire,General
+inquiring,work,I inquireing am,General
+inquired,work,I yesterday inquireed,General
+inspect,check,I inspect,General
+inspecting,check,I inspecting am,General
+inspected,check,I yesterday inspected,General
+install,work,I install,General
+installing,work,I installing am,General
+installed,work,I yesterday installed,General
+interpret,think,I interpret,General
+interpreting,think,I interpreting am,General
+interpreted,think,I yesterday interpreted,General
+introduce,work,I introduce,Social
+introducing,work,I introduceing am,Social
+introduced,work,I yesterday introduceed,Social
+inventory,count,I inventory,Professional
+inventorying,count,I inventorying am,Professional
+inventoryed,count,I yesterday inventoryed,Professional
+invest,work,I invest,Financial
+investing,work,I investing am,Financial
+invested,work,I yesterday invested,Financial
+investigate,examine,I investigate,General
+investigating,examine,I investigateing am,General
+investigated,examine,I yesterday investigateed,General
+iron,work,I iron,Household
+ironing,work,I ironing am,Household
+ironed,work,I yesterday ironed,Household
+irrigate,water,I irrigate,General
+irrigating,water,I irrigateing am,General
+irrigated,water,I yesterday irrigateed,General
+irritated,work,I irritated,General
+irritateding,work,I irritateding am,General
+jail,work,I jail,General
+jailing,work,I jailing am,General
+jailed,work,I yesterday jailed,General
+jog,run,I now jog,Movement Actions
+joging,run,I joging am,Movement Actions
+joged,run,I yesterday joged,Movement Actions
+journey,go,I journey,General
+journeying,go,I journeying am,General
+journeyed,go,I yesterday journeyed,General
+joyful,work,I joyful,General
+joyfuling,work,I joyfuling am,General
+joyfuled,work,I yesterday joyfuled,General
+judge,work,I judge,Legal
+judging,work,I judgeing am,Legal
+judged,work,I yesterday judgeed,Legal
+jump,jump,I now jump,Movement Actions
+jumping,jump,I jumping am,Movement Actions
+jumped,jump,I yesterday jumped,Movement Actions
+keyboard,keyboard,I keyboard,General
+keyboarding,keyboard,I keyboarding am,General
+keyboarded,keyboard,I yesterday keyboarded,General
+kick,work,I kick,Sports & Exercise
+kicking,work,I kicking am,Sports & Exercise
+kicked,work,I yesterday kicked,Sports & Exercise
+kiss,love,I kiss,Social
+kissing,love,I kissing am,Social
+kissed,love,I yesterday kissed,Social
+knead,work,I knead,General
+kneading,work,I kneading am,General
+kneaded,work,I yesterday kneaded,General
+kneel,work,I kneel,General
+kneeling,work,I kneeling am,General
+kneeled,work,I yesterday kneeled,General
+landscape,work,I landscape,General
+landscaping,work,I landscapeing am,General
+landscaped,work,I yesterday landscapeed,General
+landslide,fall,I landslide,General
+landsliding,fall,I landslideing am,General
+landslided,fall,I yesterday landslideed,General
+laugh,laugh,I laugh,Social
+laughing,laugh,I laughing am,Social
+laughed,laugh,I yesterday laughed,Social
+lead,lead,I lead,General
+leading,lead,I leading am,General
+leaded,lead,I yesterday leaded,General
+leap,jump,I now leap,Movement Actions
+leaping,jump,I leaping am,Movement Actions
+leaped,jump,I yesterday leaped,Movement Actions
+learn,learn,I learn,Education
+learning,learn,I learning am,Education
+learned,learn,I yesterday learned,Education
+lend,lend,I lend,General
+lending,lend,I lending am,General
+lended,lend,I yesterday lended,General
+level,level,I level,General
+leveling,level,I leveling am,General
+leveled,level,I yesterday leveled,General
+lie,work,I lie,General
+liing,work,I lieing am,General
+lied,work,I yesterday lieed,General
+lift,carry,I now lift,Hand Actions
+lifting,carry,I lifting am,Hand Actions
+lifted,carry,I yesterday lifted,Hand Actions
+light,work,I light,General
+lighting,work,I lighting am,General
+lighted,work,I yesterday lighted,General
+listen,work,I listen,Communication
+listening,work,I listening am,Communication
+listened,work,I yesterday listened,Communication
+load,work,I load,Household
+loading,work,I loading am,Household
+loaded,work,I yesterday loaded,Household
+loan,lend,I loan,General
+loaning,lend,I loaning am,General
+loaned,lend,I yesterday loaned,General
+lock,lock,I lock,Household
+locking,lock,I locking am,Household
+locked,lock,I yesterday locked,Household
+login,enter,I login,General
+logining,enter,I logining am,General
+logined,enter,I yesterday logined,General
+logout,work,I logout,General
+logouting,work,I logouting am,General
+logouted,work,I yesterday logouted,General
+look,see,I look,General
+looking,see,I looking am,General
+looked,see,I yesterday looked,General
+lose,sad,I lose,General
+losing,sad,I loseing am,General
+losed,sad,I yesterday loseed,General
+mad,angry,I mad,General
+mading,angry,I mading am,General
+maded,angry,I yesterday maded,General
+maintain,check,I maintain,General
+maintaining,check,I maintaining am,General
+maintained,check,I yesterday maintained,General
+make,work,I make,General
+making,work,I makeing am,General
+maked,work,I yesterday makeed,General
+manage,lead,I manage,Professional
+managing,lead,I manageing am,Professional
+managed,lead,I yesterday manageed,Professional
+manufacture,work,I manufacture,General
+manufacturing,work,I manufactureing am,General
+manufactured,work,I yesterday manufactureed,General
+measure,check,I measure,Construction
+measuring,check,I measureing am,Construction
+measured,check,I yesterday measureed,Construction
+medical,work,I medical,General
+medicaling,work,I medicaling am,General
+medicaled,work,I yesterday medicaled,General
+medicate,work,I medicate,General
+medicating,work,I medicateing am,General
+medicated,work,I yesterday medicateed,General
+medicine,work,I medicine,General
+medicining,work,I medicineing am,General
+medicined,work,I yesterday medicineed,General
+meditate,work,I meditate,Sports & Exercise
+meditating,work,I meditateing am,Sports & Exercise
+meditated,work,I yesterday meditateed,Sports & Exercise
+meet,meet,I meet,Social
+meeting,meet,I meeting am,Social
+meeted,meet,I yesterday meeted,Social
+memorize,work,I memorize,Education
+memorizing,work,I memorizeing am,Education
+memorized,work,I yesterday memorizeed,Education
+message,send,I message,General
+messaging,send,I messageing am,General
+messaged,send,I yesterday messageed,General
+mince,cut,I mince,General
+mincing,cut,I minceing am,General
+minced,cut,I yesterday minceed,General
+mix,work,I mix,Food Preparation
+mixing,work,I mixing am,Food Preparation
+mixed,work,I yesterday mixed,Food Preparation
+mold,work,I mold,General
+molding,work,I molding am,General
+molded,work,I yesterday molded,General
+mop,work,I mop,Household
+moping,work,I moping am,Household
+moped,work,I yesterday moped,Household
+mouse,work,I mouse,General
+mousing,work,I mouseing am,General
+moused,work,I yesterday mouseed,General
+multiply,work,I multiply,General
+multiplying,work,I multiplying am,General
+multiplyed,work,I yesterday multiplyed,General
+nail,work,I nail,Construction
+nailing,work,I nailing am,Construction
+nailed,work,I yesterday nailed,Construction
+navigate,go,I navigate,General
+navigating,go,I navigateing am,General
+navigated,go,I yesterday navigateed,General
+negotiate,discuss,I negotiate,General
+negotiating,discuss,I negotiateing am,General
+negotiated,discuss,I yesterday negotiateed,General
+note,write,I note,General
+noting,write,I noteing am,General
+noted,write,I yesterday noteed,General
+observe,work,I observe,General
+observing,work,I observeing am,General
+observed,work,I yesterday observeed,General
+offer,offer,I offer,General
+offering,offer,I offering am,General
+offered,offer,I yesterday offered,General
+open,open,I open,General
+opening,open,I opening am,General
+opened,open,I yesterday opened,General
+operate,cut,I operate,Medical
+operating,cut,I operateing am,Medical
+operated,cut,I yesterday operateed,Medical
+order,order,I order,General
+ordering,order,I ordering am,General
+ordered,order,I yesterday ordered,General
+organize,arrange,I organize,General
+organizing,arrange,I organizeing am,General
+organized,arrange,I yesterday organizeed,General
+pack,work,I pack,Shopping
+packing,work,I packing am,Shopping
+packed,work,I yesterday packed,Shopping
+pain,work,I pain,General
+paining,work,I paining am,General
+pained,work,I yesterday pained,General
+paint,draw,I paint,General
+painting,draw,I painting am,General
+painted,draw,I yesterday painted,General
+pan-fry,work,I pan-fry,General
+pan-frying,work,I pan-frying am,General
+pan-fryed,work,I yesterday pan-fryed,General
+park,work,I park,Transportation
+parking,work,I parking am,Transportation
+parked,work,I yesterday parked,Transportation
+pass,throw,I pass,General
+passing,throw,I passing am,General
+passed,throw,I yesterday passed,General
+paste,work,I paste,General
+pasting,work,I pasteing am,General
+pasted,work,I yesterday pasteed,General
+pat,touch,I pat,General
+pating,touch,I pating am,General
+pated,touch,I yesterday pated,General
+pay,pay,I pay,Financial
+paying,pay,I paying am,Financial
+payed,pay,I yesterday payed,Financial
+pedal,cycle,I pedal,General
+pedaling,cycle,I pedaling am,General
+pedaled,cycle,I yesterday pedaled,General
+peel,remove,I peel,Food Preparation
+peeling,remove,I peeling am,Food Preparation
+peeled,remove,I yesterday peeled,Food Preparation
+penalty,work,I penalty,General
+penaltying,work,I penaltying am,General
+penaltyed,work,I yesterday penaltyed,General
+pepper,work,I pepper,General
+peppering,work,I peppering am,General
+peppered,work,I yesterday peppered,General
+pick,pick,I pick,General
+picking,pick,I picking am,General
+picked,pick,I yesterday picked,General
+pinch,hold,I pinch,General
+pinching,hold,I pinching am,General
+pinched,hold,I yesterday pinched,General
+pit,remove,I pit,General
+piting,remove,I piting am,General
+pited,remove,I yesterday pited,General
+pitch,throw,I pitch,General
+pitching,throw,I pitching am,General
+pitched,throw,I yesterday pitched,General
+place,work,I place,General
+placing,work,I placeing am,General
+placed,work,I yesterday placeed,General
+plan,think,I plan,Professional
+planing,think,I planing am,Professional
+planed,think,I yesterday planed,Professional
+plant,work,I plant,Environmental
+planting,work,I planting am,Environmental
+planted,work,I yesterday planted,Environmental
+plaster,cover,I plaster,General
+plastering,cover,I plastering am,General
+plastered,cover,I yesterday plastered,General
+plate,work,I plate,General
+plating,work,I plateing am,General
+plated,work,I yesterday plateed,General
+play,work,I play do,Daily Activities
+playing,work,I playing am,Daily Activities
+played,work,I yesterday played,Daily Activities
+plead,work,I plead,General
+pleading,work,I pleading am,General
+pleaded,work,I yesterday pleaded,General
+plow,work,I plow,Agricultural
+plowing,work,I plowing am,Agricultural
+plowed,work,I yesterday plowed,Agricultural
+plug,work,I plug,Household
+pluging,work,I pluging am,Household
+pluged,work,I yesterday pluged,Household
+plumb,work,I plumb,General
+plumbing,work,I plumbing am,General
+plumbed,work,I yesterday plumbed,General
+poach,boil,I poach,General
+poaching,boil,I poaching am,General
+poached,boil,I yesterday poached,General
+point,work,I now point,Hand Actions
+pointing,work,I pointing am,Hand Actions
+pointed,work,I yesterday pointed,Hand Actions
+poke,touch,I poke,General
+poking,touch,I pokeing am,General
+poked,touch,I yesterday pokeed,General
+polish,work,I polish,General
+polishing,work,I polishing am,General
+polished,work,I yesterday polished,General
+pollute,work,I pollute,Environmental
+polluting,work,I polluteing am,Environmental
+polluted,work,I yesterday polluteed,Environmental
+pose,work,I pose,General
+posing,work,I poseing am,General
+posed,work,I yesterday poseed,General
+position,work,I position,General
+positioning,work,I positioning am,General
+positioned,work,I yesterday positioned,General
+pour,work,I pour,General
+pouring,work,I pouring am,General
+poured,work,I yesterday poured,General
+power,on,I power,General
+powering,on,I powering am,General
+powered,on,I yesterday powered,General
+practice,practice,I practice,Education
+practicing,practice,I practiceing am,Education
+practiced,practice,I yesterday practiceed,Education
+prepare,work,I prepare,General
+preparing,work,I prepareing am,General
+prepared,work,I yesterday prepareed,General
+prescribe,write,I prescribe,General
+prescribing,write,I prescribeing am,General
+prescribed,write,I yesterday prescribeed,General
+present,work,I present,Education
+presenting,work,I presenting am,Education
+presented,work,I yesterday presented,Education
+preserve,keep,I preserve,Environmental
+preserving,keep,I preserveing am,Environmental
+preserved,keep,I yesterday preserveed,Environmental
+press,work,I press,General
+pressing,work,I pressing am,General
+pressed,work,I yesterday pressed,General
+pressure,work,I pressure,General
+pressuring,work,I pressureing am,General
+pressured,work,I yesterday pressureed,General
+prison,lock,I prison,General
+prisoning,lock,I prisoning am,General
+prisoned,lock,I yesterday prisoned,General
+produce,work,I produce,Professional
+producing,work,I produceing am,Professional
+produced,work,I yesterday produceed,Professional
+profit,profit,I profit,General
+profiting,profit,I profiting am,General
+profited,profit,I yesterday profited,General
+pronounce,say,I pronounce,General
+pronouncing,say,I pronounceing am,General
+pronounced,say,I yesterday pronounceed,General
+prosecute,accuse,I prosecute,Legal
+prosecuting,accuse,I prosecuteing am,Legal
+prosecuted,accuse,I yesterday prosecuteed,Legal
+protect,work,I protect,Environmental
+protecting,work,I protecting am,Environmental
+protected,work,I yesterday protected,Environmental
+provision,work,I provision,General
+provisioning,work,I provisioning am,General
+provisioned,work,I yesterday provisioned,General
+prune,cut,I prune,Agricultural
+pruning,cut,I pruneing am,Agricultural
+pruned,cut,I yesterday pruneed,Agricultural
+pull,work,I now pull,Hand Actions
+pulling,work,I pulling am,Hand Actions
+pulled,work,I yesterday pulled,Hand Actions
+pulse,work,I pulse,General
+pulsing,work,I pulseing am,General
+pulsed,work,I yesterday pulseed,General
+punch,work,I punch,General
+punching,work,I punching am,General
+punched,work,I yesterday punched,General
+punish,work,I punish,General
+punishing,work,I punishing am,General
+punished,work,I yesterday punished,General
+purchase,work,I purchase,General
+purchasing,work,I purchaseing am,General
+purchased,work,I yesterday purchaseed,General
+purify,work,I purify,General
+purifying,work,I purifying am,General
+purifyed,work,I yesterday purifyed,General
+push,work,I now push,Hand Actions
+pushing,work,I pushing am,Hand Actions
+pushed,work,I yesterday pushed,Hand Actions
+puzzled,work,I puzzled,General
+puzzleding,work,I puzzleding am,General
+query,work,I query,General
+querying,work,I querying am,General
+queryed,work,I yesterday queryed,General
+question,question,I question,General
+questioning,question,I questioning am,General
+questioned,question,I yesterday questioned,General
+race,run,I race,Sports & Exercise
+racing,run,I raceing am,Sports & Exercise
+raced,run,I yesterday raceed,Sports & Exercise
+raise,work,I raise,General
+raising,work,I raiseing am,General
+raised,work,I yesterday raiseed,General
+rake,work,I rake,General
+raking,work,I rakeing am,General
+raked,work,I yesterday rakeed,General
+rally,work,I rally,General
+rallying,work,I rallying am,General
+rallyed,work,I yesterday rallyed,General
+read,read,I read do,Daily Activities
+reading,read,I reading am,Daily Activities
+readed,read,I yesterday readed,Daily Activities
+reap,work,I reap,General
+reaping,work,I reaping am,General
+reaped,work,I yesterday reaped,General
+rearrange,work,I rearrange,General
+rearranging,work,I rearrangeing am,General
+rearranged,work,I yesterday rearrangeed,General
+rebuild,build,I rebuild,General
+rebuilding,build,I rebuilding am,General
+rebuilded,build,I yesterday rebuilded,General
+recall,think,I recall,General
+recalling,think,I recalling am,General
+recalled,think,I yesterday recalled,General
+receive,take,I receive,Financial
+receiving,take,I receiveing am,Financial
+received,take,I yesterday receiveed,Financial
+recite,work,I recite,General
+reciting,work,I reciteing am,General
+recited,work,I yesterday reciteed,General
+record,write,I record,General
+recording,write,I recording am,General
+recorded,write,I yesterday recorded,General
+recover,improve,I recover,General
+recovering,improve,I recovering am,General
+recovered,improve,I yesterday recovered,General
+recycle,work,I recycle,Environmental
+recycling,work,I recycleing am,Environmental
+recycled,work,I yesterday recycleed,Environmental
+redo,repeat,I redo,General
+redoing,repeat,I redoing am,General
+redoed,repeat,I yesterday redoed,General
+reduce,less,I reduce,Environmental
+reducing,less,I reduceing am,Environmental
+reduced,less,I yesterday reduceed,Environmental
+refugee,work,I refugee,General
+refugeing,work,I refugeeing am,General
+refugeed,work,I yesterday refugeeed,General
+refund,work,I refund,General
+refunding,work,I refunding am,General
+refunded,work,I yesterday refunded,General
+rehabilitate,work,I rehabilitate,General
+rehabilitating,work,I rehabilitateing am,General
+rehabilitated,work,I yesterday rehabilitateed,General
+release,open,I release,General
+releasing,open,I releaseing am,General
+released,open,I yesterday releaseed,General
+relief,work,I people relief,Disaster Management
+reliefing,work,I reliefing am,Disaster Management
+reliefed,work,I yesterday reliefed,Disaster Management
+remember,work,I remember,General
+remembering,work,I remembering am,General
+remembered,work,I yesterday remembered,General
+remove,take,I remove,General
+removing,take,I removeing am,General
+removed,take,I yesterday removeed,General
+repair,work,I repair,Professional
+repairing,work,I repairing am,Professional
+repaired,work,I yesterday repaired,Professional
+reply,answer,I reply,General
+replying,answer,I replying am,General
+replyed,answer,I yesterday replyed,General
+rescue,carry,I people rescue,Disaster Management
+rescuing,carry,I rescueing am,Disaster Management
+rescued,carry,I yesterday rescueed,Disaster Management
+research,research,I research,Education
+researching,research,I researching am,Education
+researched,research,I yesterday researched,Education
+return,work,I return,Shopping
+returning,work,I returning am,Shopping
+returned,work,I yesterday returned,Shopping
+reuse,work,I reuse,Environmental
+reusing,work,I reuseing am,Environmental
+reused,work,I yesterday reuseed,Environmental
+reverse,work,I reverse,General
+reversing,work,I reverseing am,General
+reversed,work,I yesterday reverseed,General
+review,check,I review,General
+reviewing,check,I reviewing am,General
+reviewed,check,I yesterday reviewed,General
+revise,work,I revise,General
+revising,work,I reviseing am,General
+revised,work,I yesterday reviseed,General
+reward,work,I reward,General
+rewarding,work,I rewarding am,General
+rewarded,work,I yesterday rewarded,General
+ride,work,I now ride,Movement Actions
+riding,work,I rideing am,Movement Actions
+rided,work,I yesterday rideed,Movement Actions
+rinse,wash,I rinse,General
+rinsing,wash,I rinseing am,General
+rinsed,wash,I yesterday rinseed,General
+roast,cook,I roast,General
+roasting,cook,I roasting am,General
+roasted,cook,I yesterday roasted,General
+roll,turn,I roll,General
+rolling,turn,I rolling am,General
+rolled,turn,I yesterday rolled,General
+rotate,turn,I rotate,General
+rotating,turn,I rotateing am,General
+rotated,turn,I yesterday rotateed,General
+rub,work,I rub,General
+rubing,work,I rubing am,General
+rubed,work,I yesterday rubed,General
+rule,work,I rule,Legal
+ruling,work,I ruleing am,Legal
+ruled,work,I yesterday ruleed,Legal
+run,run,I now run,Movement Actions
+runing,run,I runing am,Movement Actions
+runed,run,I yesterday runed,Movement Actions
+sad,sad,I sad,General
+sading,sad,I sading am,General
+saded,sad,I yesterday saded,General
+safe,work,I people safe,Disaster Management
+safing,work,I safeing am,Disaster Management
+safed,work,I yesterday safeed,Disaster Management
+sail,boat,I sail,Transportation
+sailing,boat,I sailing am,Transportation
+sailed,boat,I yesterday sailed,Transportation
+sale,work,I sale,General
+saling,work,I saleing am,General
+saled,work,I yesterday saleed,General
+salt,work,I salt,General
+salting,work,I salting am,General
+salted,work,I yesterday salted,General
+sand,work,I sand,General
+sanding,work,I sanding am,General
+sanded,work,I yesterday sanded,General
+sauté,work,I sauté,General
+sautéing,work,I sautéing am,General
+sautéed,work,I yesterday sautéed,General
+save,keep,I save,Financial
+saving,keep,I saveing am,Financial
+saved,keep,I yesterday saveed,Financial
+saw,cut,I saw,Construction
+sawing,cut,I sawing am,Construction
+sawed,cut,I yesterday sawed,Construction
+say,say,I say,General
+saying,say,I saying am,General
+sayed,say,I yesterday sayed,General
+scan,can,I scan,General
+scaning,can,I scaning am,General
+scaned,can,I yesterday scaned,General
+score,work,I score,General
+scoring,work,I scoreing am,General
+scored,work,I yesterday scoreed,General
+scratch,work,I scratch,General
+scratching,work,I scratching am,General
+scratched,work,I yesterday scratched,General
+screen,see,I screen,General
+screening,see,I screening am,General
+screened,see,I yesterday screened,General
+screw,turn,I screw,General
+screwing,turn,I screwing am,General
+screwed,turn,I yesterday screwed,General
+scroll,work,I scroll,General
+scrolling,work,I scrolling am,General
+scrolled,work,I yesterday scrolled,General
+scrub,wash,I scrub,General
+scrubing,wash,I scrubing am,General
+scrubed,wash,I yesterday scrubed,General
+search,search,I search,Technology
+searching,search,I searching am,Technology
+searched,search,I yesterday searched,Technology
+season,add,I season,General
+seasoning,add,I seasoning am,General
+seasoned,add,I yesterday seasoned,General
+secure,work,I secure,General
+securing,work,I secureing am,General
+secured,work,I yesterday secureed,General
+see,see,I see,General
+seing,see,I seeing am,General
+seed,see,I yesterday seeed,General
+seed,e,I seed,Agricultural
+seeding,e,I seeding am,Agricultural
+select,work,I select,Shopping
+selecting,work,I selecting am,Shopping
+selected,work,I yesterday selected,Shopping
+sell,work,I sell,Professional
+selling,work,I selling am,Professional
+selled,work,I yesterday selled,Professional
+send,send,I send,General
+sending,send,I sending am,General
+sended,send,I yesterday sended,General
+sentence,work,I sentence,General
+sentencing,work,I sentenceing am,General
+sentenced,work,I yesterday sentenceed,General
+separate,divide,I separate,General
+separating,divide,I separateing am,General
+separated,divide,I yesterday separateed,General
+serve,work,I serve,Food Preparation
+serving,work,I serveing am,Food Preparation
+served,work,I yesterday serveed,Food Preparation
+setup,arrange,I setup,General
+setuping,arrange,I setuping am,General
+setuped,arrange,I yesterday setuped,General
+shake,shake,I now shake,Hand Actions
+shaking,shake,I shakeing am,Hand Actions
+shaked,shake,I yesterday shakeed,Hand Actions
+shake hands,work,I shake hands,General
+shake handsing,work,I shake handsing am,General
+shake handsed,work,I yesterday shake handsed,General
+shape,form,I shape,General
+shaping,form,I shapeing am,General
+shaped,form,I yesterday shapeed,General
+share,work,I share,General
+sharing,work,I shareing am,General
+shared,work,I yesterday shareed,General
+shave,cut,I shave,General
+shaving,cut,I shaveing am,General
+shaved,cut,I yesterday shaveed,General
+shelter,work,I people shelter,Disaster Management
+sheltering,work,I sheltering am,Disaster Management
+sheltered,work,I yesterday sheltered,Disaster Management
+shocked,work,I shocked,General
+shockeding,work,I shockeding am,General
+shoot,throw,I shoot,General
+shooting,throw,I shooting am,General
+shooted,throw,I yesterday shooted,General
+shop,work,I shop,Shopping
+shoping,work,I shoping am,Shopping
+shoped,work,I yesterday shoped,Shopping
+shower,wash,I shower,General
+showering,wash,I showering am,General
+showered,wash,I yesterday showered,General
+shred,tear,I shred,General
+shreding,tear,I shreding am,General
+sign,sign,I sign,Communication
+signing,sign,I signing am,Communication
+signed,sign,I yesterday signed,Communication
+signal,work,I signal,General
+signaling,work,I signaling am,General
+signaled,work,I yesterday signaled,General
+signin,enter,I signin,General
+signining,enter,I signining am,General
+signined,enter,I yesterday signined,General
+signout,leave,I signout,General
+signouting,leave,I signouting am,General
+signouted,leave,I yesterday signouted,General
+simmer,boil,I simmer,General
+simmering,boil,I simmering am,General
+simmered,boil,I yesterday simmered,General
+sit,work,I now sit,Movement Actions
+siting,work,I siting am,Movement Actions
+sited,work,I yesterday sited,Movement Actions
+sketch,draw,I sketch,General
+sketching,draw,I sketching am,General
+sketched,draw,I yesterday sketched,General
+skin,remove,I skin,General
+skining,remove,I skining am,General
+skined,remove,I yesterday skined,General
+skip,jump,I skip,General
+skiping,jump,I skiping am,General
+skiped,jump,I yesterday skiped,General
+slap,work,I slap,General
+slaping,work,I slaping am,General
+slaped,work,I yesterday slaped,General
+slice,cut,I slice,Food Preparation
+slicing,cut,I sliceing am,Food Preparation
+sliced,cut,I yesterday sliceed,Food Preparation
+slide,work,I slide,General
+sliding,work,I slideing am,General
+slided,work,I yesterday slideed,General
+slip,fall,I slip,General
+sliping,fall,I sliping am,General
+sliped,fall,I yesterday sliped,General
+smash,work,I smash,General
+smashing,work,I smashing am,General
+smashed,work,I yesterday smashed,General
+smile,work,I smile,Social
+smiling,work,I smileing am,Social
+smiled,work,I yesterday smileed,Social
+sneeze,blow,I sneeze,General
+sneezing,blow,I sneezeing am,General
+sneezed,blow,I yesterday sneezeed,General
+sob,cry,I sob,General
+sobing,cry,I sobing am,General
+sobed,cry,I yesterday sobed,General
+solve,answer,I solve,Education
+solving,answer,I solveing am,Education
+solved,answer,I yesterday solveed,Education
+sort,work,I sort,General
+sorting,work,I sorting am,General
+sorted,work,I yesterday sorted,General
+sow,work,I sow,General
+sowing,work,I sowing am,General
+sowed,work,I yesterday sowed,General
+speak,work,I speak,Communication
+speaking,work,I speaking am,Communication
+speaked,work,I yesterday speaked,Communication
+spell,write,I spell,Education
+spelling,write,I spelling am,Education
+spelled,write,I yesterday spelled,Education
+spend,work,I spend,Financial
+spending,work,I spending am,Financial
+spended,work,I yesterday spended,Financial
+spice,add,I spice,General
+spicing,add,I spiceing am,General
+spiced,add,I yesterday spiceed,General
+spin,work,I spin,General
+spining,work,I spining am,General
+spined,work,I yesterday spined,General
+spray,work,I spray,General
+spraying,work,I spraying am,General
+sprayed,work,I yesterday sprayed,General
+sprint,run,I now sprint,Movement Actions
+sprinting,run,I sprinting am,Movement Actions
+sprinted,run,I yesterday sprinted,Movement Actions
+square,work,I square,General
+squaring,work,I squareing am,General
+squared,work,I yesterday squareed,General
+squeeze,work,I squeeze,General
+squeezing,work,I squeezeing am,General
+squeezed,work,I yesterday squeezeed,General
+stand,work,I now stand,Movement Actions
+standing,work,I standing am,Movement Actions
+standed,work,I yesterday standed,Movement Actions
+steam,cook,I steam,General
+steaming,cook,I steaming am,General
+steamed,cook,I yesterday steamed,General
+steer,work,I steer,Transportation
+steering,work,I steering am,Transportation
+steered,work,I yesterday steered,Transportation
+stir,work,I stir,Food Preparation
+stiring,work,I stiring am,Food Preparation
+stired,work,I yesterday stired,Food Preparation
+stitch,work,I stitch,General
+stitching,work,I stitching am,General
+stitched,work,I yesterday stitched,General
+stock,work,I stock,General
+stocking,work,I stocking am,General
+stocked,work,I yesterday stocked,General
+stop,work,I stop,General
+stoping,work,I stoping am,General
+stoped,work,I yesterday stoped,General
+storm,work,I storm,General
+storming,work,I storming am,General
+stormed,work,I yesterday stormed,General
+stretch,reach,I stretch,General
+stretching,reach,I stretching am,General
+stretched,reach,I yesterday stretched,General
+strike,work,I strike,General
+striking,work,I strikeing am,General
+striked,work,I yesterday strikeed,General
+study,learn,I study do,Daily Activities
+studying,learn,I studying am,Daily Activities
+studyed,learn,I yesterday studyed,Daily Activities
+stumble,fall,I stumble,General
+stumbling,fall,I stumbleing am,General
+stumbled,fall,I yesterday stumbleed,General
+subtract,work,I subtract,General
+subtracting,work,I subtracting am,General
+subtracted,work,I yesterday subtracted,General
+sue,work,I sue,Legal
+suing,work,I sueing am,Legal
+sued,work,I yesterday sueed,Legal
+supervise,work,I supervise,General
+supervising,work,I superviseing am,General
+supervised,work,I yesterday superviseed,General
+supply,work,I supply,General
+supplying,work,I supplying am,General
+supplyed,work,I yesterday supplyed,General
+support,hold,I support,General
+supporting,hold,I supporting am,General
+supported,hold,I yesterday supported,General
+surf,work,I surf,General
+surfing,work,I surfing am,General
+surfed,work,I yesterday surfed,General
+surgery,work,I surgery,General
+surgerying,work,I surgerying am,General
+surgeryed,work,I yesterday surgeryed,General
+surprised,work,I surprised,General
+surpriseding,work,I surpriseding am,General
+survivor,person,I survivor,General
+survivoring,person,I survivoring am,General
+survivored,person,I yesterday survivored,General
+sweep,work,I sweep,Household
+sweeping,work,I sweeping am,Household
+sweeped,work,I yesterday sweeped,Household
+swim,work,I now swim,Movement Actions
+swiming,work,I swiming am,Movement Actions
+swimed,work,I yesterday swimed,Movement Actions
+swipe,wipe,I swipe,General
+swiping,wipe,I swipeing am,General
+swiped,wipe,I yesterday swipeed,General
+switch,work,I switch,General
+switching,work,I switching am,General
+switched,work,I yesterday switched,General
+talk,talk,I talk,Communication
+talking,talk,I talking am,Communication
+talked,talk,I yesterday talked,Communication
+tap,touch,I tap,General
+taping,touch,I taping am,General
+taped,touch,I yesterday taped,General
+taste,eat,I taste,General
+tasting,eat,I tasteing am,General
+tasted,eat,I yesterday tasteed,General
+teach,teach,I teach,Education
+teaching,teach,I teaching am,Education
+teached,teach,I yesterday teached,Education
+tear,sad,I tear,General
+tearing,sad,I tearing am,General
+teared,sad,I yesterday teared,General
+tear down,work,I tear down,General
+tear downing,work,I tear downing am,General
+tear downed,work,I yesterday tear downed,General
+tell,work,I tell,General
+telling,work,I telling am,General
+telled,work,I yesterday telled,General
+temperature,temperature,I temperature,General
+temperaturing,temperature,I temperatureing am,General
+temperatured,temperature,I yesterday temperatureed,General
+test,try,I test,General
+testing,try,I testing am,General
+tested,try,I yesterday tested,General
+text,write,I text,Communication
+texting,write,I texting am,Communication
+texted,write,I yesterday texted,Communication
+thaw,work,I thaw,General
+thawing,work,I thawing am,General
+thawed,work,I yesterday thawed,General
+thresh,work,I thresh,General
+threshing,work,I threshing am,General
+threshed,work,I yesterday threshed,General
+thrilled,work,I thrilled,General
+thrilleding,work,I thrilleding am,General
+throw,throw,I now throw,Hand Actions
+throwing,throw,I throwing am,Hand Actions
+throwed,throw,I yesterday throwed,Hand Actions
+till,work,I till,General
+tilling,work,I tilling am,General
+tilled,work,I yesterday tilled,General
+toast,cook,I toast,General
+toasting,cook,I toasting am,General
+toasted,cook,I yesterday toasted,General
+toss,throw,I toss,General
+tossing,throw,I tossing am,General
+tossed,throw,I yesterday tossed,General
+touch,touch,I now touch,Hand Actions
+touching,touch,I touching am,Hand Actions
+touched,touch,I yesterday touched,Hand Actions
+touchscreen,touch,I touchscreen,General
+touchscreening,touch,I touchscreening am,General
+touchscreened,touch,I yesterday touchscreened,General
+trade,work,I trade,General
+trading,work,I tradeing am,General
+traded,work,I yesterday tradeed,General
+train,practice,I train,Sports & Exercise
+training,practice,I training am,Sports & Exercise
+trained,practice,I yesterday trained,Sports & Exercise
+transfer,work,I transfer,General
+transfering,work,I transfering am,General
+transfered,work,I yesterday transfered,General
+translate,work,I translate,General
+translating,work,I translateing am,General
+translated,work,I yesterday translateed,General
+transport,carry,I transport,General
+transporting,carry,I transporting am,General
+transported,carry,I yesterday transported,General
+travel,travel,I travel,Transportation
+traveling,travel,I traveling am,Transportation
+traveled,travel,I yesterday traveled,Transportation
+treat,work,I treat,Medical
+treating,work,I treating am,Medical
+treated,work,I yesterday treated,Medical
+tree,tree,I tree,General
+treing,tree,I treeing am,General
+treed,tree,I yesterday treeed,General
+trim,cut,I trim,General
+triming,cut,I triming am,General
+trimed,cut,I yesterday trimed,General
+trip,fall,I trip,General
+triping,fall,I triping am,General
+triped,fall,I yesterday triped,General
+tsunami,work,I tsunami,General
+tsunamiing,work,I tsunamiing am,General
+tsunamied,work,I yesterday tsunamied,General
+tunnel,work,I tunnel,General
+tunneling,work,I tunneling am,General
+tunneled,work,I yesterday tunneled,General
+turn,turn,I turn,General
+turning,turn,I turning am,General
+turned,turn,I yesterday turned,General
+twist,turn,I twist,General
+twisting,turn,I twisting am,General
+twisted,turn,I yesterday twisted,General
+type,write,I type,Technology
+typing,write,I typeing am,Technology
+typed,write,I yesterday typeed,Technology
+uncertain,work,I uncertain,General
+uncertaining,work,I uncertaining am,General
+uncertained,work,I yesterday uncertained,General
+understand,know,I understand,General
+understanding,know,I understanding am,General
+understanded,know,I yesterday understanded,General
+undo,work,I undo,General
+undoing,work,I undoing am,General
+undoed,work,I yesterday undoed,General
+unfold,open,I unfold,General
+unfolding,open,I unfolding am,General
+unfolded,open,I yesterday unfolded,General
+unload,take,I unload,General
+unloading,take,I unloading am,General
+unloaded,take,I yesterday unloaded,General
+unlock,open,I unlock,General
+unlocking,open,I unlocking am,General
+unlocked,open,I yesterday unlocked,General
+unpack,open,I unpack,General
+unpacking,open,I unpacking am,General
+unpacked,open,I yesterday unpacked,General
+unplug,work,I unplug,General
+unpluging,work,I unpluging am,General
+unpluged,work,I yesterday unpluged,General
+upload,send,I upload,Technology
+uploading,send,I uploading am,Technology
+uploaded,send,I yesterday uploaded,Technology
+upset,sad,I upset,General
+upseting,sad,I upseting am,General
+upseted,sad,I yesterday upseted,General
+vaccinate,work,I vaccinate,General
+vaccinating,work,I vaccinateing am,General
+vaccinated,work,I yesterday vaccinateed,General
+vacuum,work,I vacuum,General
+vacuuming,work,I vacuuming am,General
+vacuumed,work,I yesterday vacuumed,General
+verdict,work,I verdict,General
+verdicting,work,I verdicting am,General
+verdicted,work,I yesterday verdicted,General
+victim,person,I victim,General
+victiming,person,I victiming am,General
+victimed,person,I yesterday victimed,General
+volley,work,I volley,General
+volleying,work,I volleying am,General
+volleyed,work,I yesterday volleyed,General
+volunteer,work,I volunteer,General
+volunteering,work,I volunteering am,General
+volunteered,work,I yesterday volunteered,General
+vomit,vomit,I vomit,General
+vomiting,vomit,I vomiting am,General
+vomited,vomit,I yesterday vomited,General
+voyage,travel,I voyage,General
+voyaging,travel,I voyageing am,General
+voyaged,travel,I yesterday voyageed,General
+walk,work,I now walk,Movement Actions
+walking,work,I walking am,Movement Actions
+walked,work,I yesterday walked,Movement Actions
+warm,work,I warm,General
+warming,work,I warming am,General
+warmed,work,I yesterday warmed,General
+warn,work,I people warn,Disaster Management
+warning,work,I warning am,Disaster Management
+warned,work,I yesterday warned,Disaster Management
+wash,wash,I wash do,Daily Activities
+washing,wash,I washing am,Daily Activities
+washed,wash,I yesterday washed,Daily Activities
+watch,see,I watch,Communication
+watching,see,I watching am,Communication
+watched,see,I yesterday watched,Communication
+water,water,I water,Agricultural
+watering,water,I watering am,Agricultural
+watered,water,I yesterday watered,Agricultural
+wave,work,I now wave,Hand Actions
+waving,work,I waveing am,Hand Actions
+waved,work,I yesterday waveed,Hand Actions
+wear,work,I wear,General
+wearing,work,I wearing am,General
+weared,work,I yesterday weared,General
+weed,remove,I weed,General
+weeding,remove,I weeding am,General
+weep,cry,I weep,General
+weeping,cry,I weeping am,General
+weeped,cry,I yesterday weeped,General
+weigh,weigh,I weigh,General
+weighing,weigh,I weighing am,General
+weighed,weigh,I yesterday weighed,General
+welcome,welcome,I welcome,Social
+welcoming,welcome,I welcomeing am,Social
+welcomed,welcome,I yesterday welcomeed,Social
+weld,join,I weld,Construction
+welding,join,I welding am,Construction
+welded,join,I yesterday welded,Construction
+whisk,work,I whisk,General
+whisking,work,I whisking am,General
+whisked,work,I yesterday whisked,General
+win,win,I win,General
+wining,win,I wining am,General
+wined,win,I yesterday wined,General
+wipe,wipe,I wipe,General
+wiping,wipe,I wipeing am,General
+wiped,wipe,I yesterday wipeed,General
+withdraw,take,I withdraw,General
+withdrawing,take,I withdrawing am,General
+withdrawed,take,I yesterday withdrawed,General
+work,work,I work do,Daily Activities
+working,work,I working am,Daily Activities
+worked,work,I yesterday worked,Daily Activities
+wrap,cover,I wrap,General
+wraping,cover,I wraping am,General
+wraped,cover,I yesterday wraped,General
+wrestle,fight,I wrestle,Sports & Exercise
+wrestling,fight,I wrestleing am,Sports & Exercise
+wrestled,fight,I yesterday wrestleed,Sports & Exercise
+write,write,I write do,Daily Activities
+writing,write,I writeing am,Daily Activities
+writed,write,I yesterday writeed,Daily Activities
+x-ray,x-ray,I x-ray,General
+x-raying,x-ray,I x-raying am,General
+x-rayed,x-ray,I yesterday x-rayed,General
+yoga,work,I yoga,Sports & Exercise
+yogaing,work,I yogaing am,Sports & Exercise
+yogaed,work,I yesterday yogaed,Sports & Exercise
+zoom,work,I zoom,General
+zooming,work,I zooming am,General
+zoomed,work,I yesterday zoomed,General
