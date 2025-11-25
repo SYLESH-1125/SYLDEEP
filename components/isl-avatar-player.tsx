@@ -411,8 +411,12 @@ export function ISLAvatarPlayer({ className }: ISLAvatarPlayerProps) {
       } else {
         // For unknown words, use a mapped action from dataset or fallback
         const fallbackSign = getFallbackSign(word)
-        console.log('[ISL] Unknown word "' + word + '" -> using fallback:', fallbackSign)
-        signs.push(fallbackSign)
+        if (fallbackSign) {
+          console.log('[ISL] Unknown word "' + word + '" -> using fallback:', fallbackSign)
+          signs.push(fallbackSign)
+        } else {
+          console.log('[ISL] Skipping unknown word "' + word + '" (no sign available)')
+        }
       }
     }
 
@@ -428,7 +432,8 @@ export function ISLAvatarPlayer({ className }: ISLAvatarPlayerProps) {
 
   // Get fallback sign for unknown words - uses real ISL dataset (CISLR, INCLUDE, ISLTranslate)
   // Maps 1,722+ action words to CHARACTER ACTIONS
-  const getFallbackSign = (word: string): string => {
+  // Returns null if no sign is available
+  const getFallbackSign = (word: string): string | null => {
     const lowerWord = word.toLowerCase()
     
     // First try: Direct lookup in comprehensive ISL dataset
@@ -461,28 +466,9 @@ export function ISLAvatarPlayer({ className }: ISLAvatarPlayerProps) {
       }
     }
     
-    // Final fallback: Category-based intelligent mapping
-    console.log('[ISL] Using intelligent fallback for:', lowerWord)
-    
-    // Action suffixes → generic action
-    if (lowerWord.endsWith('ing')) return 'do'
-    if (lowerWord.endsWith('ed')) return 'do'
-    
-    // People-related suffixes
-    if (lowerWord.endsWith('er') || lowerWord.endsWith('or')) return 'person'
-    
-    // Abstract nouns
-    if (lowerWord.endsWith('tion') || lowerWord.endsWith('sion')) return 'do'
-    if (lowerWord.endsWith('ness') || lowerWord.endsWith('ity')) return 'good'
-    if (lowerWord.endsWith('ment')) return 'work'
-    
-    // Adverbs
-    if (lowerWord.endsWith('ly')) return 'good'
-    
-    // Alphabet-based fallback for completely unknown words
-    const fallbackSigns = ['hello', 'thankyou', 'good', 'yes', 'help', 'please', 'welcome', 'ok']
-    const index = lowerWord.charCodeAt(0) % fallbackSigns.length
-    return fallbackSigns[index]
+    // No match found - return null to skip this word
+    console.log('[ISL] No sign found for:', lowerWord)
+    return null
   }
 
   // Convert SVO (Subject-Verb-Object) to SOV (Subject-Object-Verb)
@@ -651,7 +637,9 @@ export function ISLAvatarPlayer({ className }: ISLAvatarPlayerProps) {
     if (!cwaRef.current) return
 
     try {
-      const sigmlURL = `/SignFiles/${word.toLowerCase()}.sigml`
+      // Single letters use uppercase, words use lowercase
+      const filename = word.length === 1 ? word.toUpperCase() : word.toLowerCase()
+      const sigmlURL = `/SignFiles/${filename}.sigml`
       setSiGMLURL(sigmlURL)
       console.log('[ISL] Playing SiGML:', sigmlURL)
       
